@@ -2,7 +2,7 @@ import Joi from "joi";
 
 const noteSchema = Joi.object({
     title: Joi.string().max(50).required(),
-    text: Joi.string().max(400).required(),
+    text: Joi.string().max(300).required(),
 });
 
 export default function validateNote(req, res, next) {
