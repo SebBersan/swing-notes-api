@@ -40,7 +40,7 @@ router.get('/', getNotes);
  *       - bearerAuth: []
  *     requestBody:
  *       required: true
- *       text:
+ *       content:
  *         application/json:
  *           schema:
  *             type: object
@@ -79,7 +79,7 @@ router.post('/', validateNote, createNote);
  *         description: Note ID
  *     requestBody:
  *       required: true
- *       text:
+ *       content:
  *         application/json:
  *           schema:
  *             type: object

@@ -1,1 +1,3 @@
-{"id":"0f61838a-4f38-4a9d-a62c-2c662cc2bf42","title":"Test Title","content":"Test Content","createdAt":{"$$date":1746469448800},"updatedAt":{"$$date":1746469448800},"ownerId":"CRcCswVcu23uHA6A","_id":"A7NY2VJOQv2NOE2k"}
+{"id":"081d6ccb-e757-4804-828b-e96ab1d59d67","title":"Detta är en titel","text":"Detta är texten i våran note.","createdAt":{"$$date":1746908816675},"updatedAt":{"$$date":1746908816675},"ownerId":"R3tqV36YX088rxn2","_id":"Fb7ZpRFhpbaCnb57"}
+{"id":"081d6ccb-e757-4804-828b-e96ab1d59d67","title":"Detta är en edit på titel","text":"Detta är en edit på texten i våran note.","createdAt":{"$$date":1746908816675},"updatedAt":{"$$date":1746908868720},"ownerId":"R3tqV36YX088rxn2","_id":"Fb7ZpRFhpbaCnb57"}
+{"$$deleted":true,"_id":"Fb7ZpRFhpbaCnb57"}
